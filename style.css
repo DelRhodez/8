@@ -1,0 +1,126 @@
+main { 
+    box-sizing: border-box;
+    background-color: rgb(182, 232, 255);
+    margin: 50px;
+  }
+  .col-1 {
+    height: 200px;
+    background: rgb(209, 100, 100);
+    height: 100px;
+    width: 33.333%;
+    background: grey;
+    margin: 30px;
+    
+  }
+  .col-2 {
+    height: 400px;
+    width: 33.333%;
+    background: grey;
+    margin: .5rem;
+  }
+  .col-3 {
+    height: 400px;
+    width: 33.333%;
+    background: grey;
+    margin: .5rem;
+  }
+  .col-4 {
+    height: 400px;
+    margin-top: 111px;
+    width: 33.333%;
+    background: grey;
+    margin: .5rem;
+  }
+  .col-5 {
+    height: 400px;
+    width: 33.333%;
+    background: grey;
+    margin: .5rem;
+  }
+  .col-6 {
+    height: 400px;
+    width: 33.333%;
+    background: grey;
+    margin: .5rem;
+  }
+  .col-7 {
+    height: 400px;
+    width: 33.333%;
+    background: grey;
+    margin: .5rem;
+  }
+  .col-8 {
+    height: 400px;
+    width: 33.333%;
+    background: grey;
+    margin: .5rem;
+  }
+  .col-9 {
+    height: 400px;
+    width: 33.333%;
+    background: grey;
+    margin: .5rem;
+  }
+  .row {
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: center;
+      align-content: center;
+      justify-content: space-between;
+  }
+  .parent1 {
+    font-size: 60px;
+    height: 400px;
+    padding-top: 100px;
+    width: 33.333%;
+    display: flex;
+    flex-direction: column;
+    margin: .5rem;
+    background-color: rgb(150, 150, 150);
+    text-align: center;
+  }
+  .child1 {
+    height: 400px;
+    width: 100%;
+    vertical-align: middle;
+    background: rgb(255, 255, 255);
+    text-align: center;
+  }
+  .parent2 {
+    font-size: 60px;
+    height: 400px;
+    padding-top: 50px;
+    width: 33.333%;
+    display: flex;
+    flex-direction: column;
+    margin: .5rem;
+    background-color: rgb(150, 150, 150);
+    text-align: center;
+  }
+  .child2 {
+    
+    height: 400px;
+    width: 100%;
+    vertical-align: middle;
+    background: rgb(255, 255, 255);
+    text-align: center;
+  }
+  .parent3 {
+    font-size: 60px;
+    height: 450px;
+    padding-top: 50px;
+    width: 33.333%;
+    display: flex;
+    flex-direction: column;
+    margin: .5rem;
+    background-color: rgb(150, 150, 150);
+    text-align: center;
+  }
+  .child3 {
+    
+    height: 450px;
+    width: 100%;
+    vertical-align: middle;
+    background: rgb(255, 255, 255);
+    text-align: center;
+  }
